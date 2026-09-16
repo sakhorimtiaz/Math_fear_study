@@ -228,8 +228,7 @@ Hypotheses H1, H2, and H3 are mathematically supported by the correlation data f
 
 * Chief Patron: Bro. Placid Peter Rebeiro, CSC *(Principal, St. Gregory’s High School and College)*  
 * Chief Co-patron: Bro. Leonard Chandan Rozario, CSC *(Vice-Principal, St. Gregory’s High School and College)*  
-* Researchers: K. M. Imtiaz Hossain *(Lead Researcher, Mathematics Teacher, St. Gregory’s High School and College)*  
-  Ms. Konika Akhtar *(Student Counsellor, St. Gregory’s High School and College)*  
+* Researchers: K. M. Imtiaz Hossain *(Lead Researcher, Mathematics Teacher, St. Gregory’s High School and College)* , Ms. Konika Akhtar *(Co-Researcher, Student Counsellor, St. Gregory’s High School and College)*  
 * Advisor: Yet to be confirmed  
 * Students' Research Team: Rupayan Bhuiyan, Sohail Abdullah Adib, Kashif Rayan, Shuvashis Debnath, Fardin Ahmed Fuad, Tahsinul Islam, Md. Mahbubur Rahman, Afnan Zaman, Zarif Mohammad Omar, Sheikh Zareef Ahmed, Redwan Al Mamun, Mohammud Nafiul Islam, Nuaimaan Al Ahnaf, Md. Shefaur Rahman Sadif *(Students, St. Gregory’s High School and College)*
 
