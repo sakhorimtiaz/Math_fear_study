@@ -39,8 +39,7 @@ How do mathematics anxiety, examination anxiety, mathematical learning behaviour
   * Secondly, we asked 23 random students from classes 6, 7, and 9 (both Bangla and English) to write 5 points on “Why do you fear mathematics?”  
   * Next, student counselor Ms. Konika Akter gave her point of view on this issue and merged AMAS and the Westside Test Anxiety Scales into the survey form.  
   * After that, we put it all together and wrote the questions in very simple language that can be understood by the students from class 5 to 12\.  
-  * At last, we added some suggestions from our vice principal  
-  * Collected consent letters from student volunteers’ parents.  
+  * At last, we added some suggestions from our vice principal.
 
 &nbsp;
 
@@ -227,8 +226,8 @@ Hypotheses H1, H2, and H3 are mathematically supported by the correlation data f
 
 &nbsp;**Our Team**
 
-* Chief Patron: Bro. Placid Peter Rebeiro, CSC *(Principal, Mathematics Teacher, St. Gregory’s High School and College)*  
-* Chief Co-patron: Bro. Leonard Chandan Rozario, CSC *(Vice-Principal, Mathematics Teacher, St. Gregory’s High School and College)*  
+* Chief Patron: Bro. Placid Peter Rebeiro, CSC *(Principal, St. Gregory’s High School and College)*  
+* Chief Co-patron: Bro. Leonard Chandan Rozario, CSC *(Vice-Principal, St. Gregory’s High School and College)*  
 * Researchers: K. M. Imtiaz Hossain *(Lead Researcher, Mathematics Teacher, St. Gregory’s High School and College)*  
   Ms. Konika Akhtar *(Student Counsellor, St. Gregory’s High School and College)*  
 * Advisor: Yet to be confirmed  
