@@ -41,7 +41,6 @@ How do mathematics anxiety, examination anxiety, mathematical learning behaviour
   * After that, we put it all together and wrote the questions in very simple language that can be understood by the students from class 5 to 12\.  
   * At last, we added some suggestions from our vice principal  
   * Collected consent letters from student volunteers’ parents.  
-* Trained volunteers about the questions, data collection, and how to help students if anyone asks for any clarification on the questions' meaning.
 
 &nbsp;
 
