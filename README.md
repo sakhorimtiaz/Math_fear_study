@@ -220,7 +220,7 @@ Question D3 ("**Think about whether I have done such a problem before**") in the
 
 **Footnote:**
 
-Hypotheses H1, H2, and H3 are mathematically supported by the correlation data from survey items E5, C2, FN7, GN6, and EN3.&nbsp;
+The correlation analysis provides preliminary evidence consistent with H1, H2, and H3, identifying several items with notable associations with Math Anxiety and Exam Phobia.&nbsp;
 
 &nbsp;
 
