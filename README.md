@@ -170,7 +170,7 @@ Question C2 ("**Mind goes blank even for known answers**") in the **Test Anxiety
 
 **Finding 3:**&nbsp;
 
-From **Exam Self-Regulation**, FN7 ("**Know the rules but don't know which one to use**") has a massive \+0.572 correlation with **Exam Phobia**.
+From **Exam Self-Regulation**, FN7 ("**Know the rules but don't know which one to use**") has a strong \+0.572 correlation with **Exam Phobia**.
 
 &nbsp;
 
@@ -182,19 +182,19 @@ From **Exam Self-Regulation**, FN7 ("**Know the rules but don't know which one t
 
 **Finding 4:**&nbsp;
 
-Question EN3 ("**Fear of making mistakes in class**"), which measures **Classroom safety**, shows a foundational trigger for **Exam Phobia** (+0.593 correlation).
+Question EN3 ("**Fear of making mistakes in class**"), which measures **Classroom safety**, shows a strong association with **Exam Phobia** (+0.593 correlation).
 
 &nbsp;
 
 **Recommendation:**
 
-**Normalize Public Mistakes:** Encourage teachers to appreciate students who try to solve problems on the board, even when the final answer is wrong. This can help students become less afraid of making mistakes in front of others and will significantly lower long-term exam phobia.
+**Normalize Public Mistakes:** Encourage teachers to appreciate students who try to solve problems on the board, even when the final answer is wrong. This can help students become less afraid of making mistakes in front of others and may help reduce students’ fear of making mistakes and exam-related anxiety over time.
 
 &nbsp;
 
 **Finding 5:**&nbsp;
 
-From **Academic Pressure**, GN6 ("**Fear of shame if I fail**") proves the anxiety is fundamentally social, with a massive link to **Exam Phobia** (+0.514 correlation).
+From **Academic Pressure**, GN6 ("**Fear of shame if I fail**") proves the anxiety is fundamentally social, strong association with **Exam Phobia** (+0.514 correlation).
 
 &nbsp;
 
