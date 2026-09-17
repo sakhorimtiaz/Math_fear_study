@@ -233,3 +233,8 @@ The correlation analysis provides preliminary evidence consistent with H1, H2, a
 * Students' Research Team: Rupayan Bhuiyan, Sohail Abdullah Adib, Kashif Rayan, Shuvashis Debnath, Fardin Ahmed Fuad, Tahsinul Islam, Md. Mahbubur Rahman, Afnan Zaman, Zarif Mohammad Omar, Sheikh Zareef Ahmed, Redwan Al Mamun, Mohammud Nafiul Islam, Nuaimaan Al Ahnaf, Md. Shefaur Rahman Sadif *(Students, St. Gregory’s High School and College)*
 
 &nbsp;
+
+## Rules and Privacy
+
+* **Ownership:** All data and Python scripts belong to St. Gregory’s High School and College and our research team.
+* **Privacy:** Do not share, copy, or use this data for other projects without asking us first.
